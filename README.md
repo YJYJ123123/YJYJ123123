@@ -1,6 +1,8 @@
 # gitPractice_01 👋
 
 - 이것은 계산기 프로젝트 입니다.
+- ![20220104_165128](https://user-images.githubusercontent.com/95396857/148026557-0bff07ae-788e-4efa-bdf3-4c26116e7294.png)
+
 <!--
 **YJYJ123123/YJYJ123123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
